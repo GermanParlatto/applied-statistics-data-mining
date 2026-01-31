@@ -1,12 +1,14 @@
 # Airbnb Madrid - Statistical Analysis and Predictive Modeling
 
+🌐 _[Versión en español](README_ES.md)_
+
 ## Overview
 
 This project is a practical exercise in **applied statistics and data mining** focused on Airbnb apartment listings in Madrid. The main objective is to build a predictive model that estimates the **square meters** of apartments based on various features from the dataset.
 
 ## Dataset
 
-The data is sourced from the [Airbnb Listings public dataset](https://public.opendatasoft.com/explore/dataset/airbnb-listings/export/) and filtered to include only:
+The data is sourced from the [Airbnb Listings public dataset](https://drive.google.com/file/d/1CCh6EWZdzO5YLdf9lEOAVXzqbxeNxsny/view?usp=drive_link) and filtered to include only:
 
 - Listings in **Madrid**
 - Room type: **Entire home/apt**
